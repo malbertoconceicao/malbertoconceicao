@@ -4,13 +4,13 @@ Trabalho como Analista de Suporte e desenvolvedor, tenho experiência há mais d
 
 <h2>Habilidades</h2>
 <ul>
-  <li>Redes de Computadores</li>
+
   <li>Desenvolvimento Web(HTML, CSS e JavaScript)</li>
   <li>Bootstrap</li>
   <li>JQuery</li>
   <li>Wordpress</li>
   <li>SQL Server 2014 Databases</li>
-  <li>Linux</li> 
+  <li>Redes de Computadores (Linux/Windows)</li>
 </ul>
 
 <h2>Redes Sociais</h2> 
