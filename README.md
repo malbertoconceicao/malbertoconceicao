@@ -8,6 +8,7 @@ Trabalho como Analista de Suporte e desenvolvedor, tenho experiência há mais d
   <li>Desenvolvimento Web(HTML, CSS e JavaScript)</li>
   <li>Bootstrap</li>
   <li>JQuery</li>
+  <li>Wordpress</li>
   <li>Administering Microsoft SQL Server 2014 Databases</li>
   <li>Linux</li> 
 </ul>
