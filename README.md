@@ -9,7 +9,7 @@ Trabalho como Analista de Suporte e desenvolvedor, tenho experiência há mais d
   <li>Bootstrap</li>
   <li>JQuery</li>
   <li>Wordpress</li>
-  <li>Administering Microsoft SQL Server 2014 Databases</li>
+  <li>SQL Server 2014 Databases</li>
   <li>Linux</li> 
 </ul>
 
