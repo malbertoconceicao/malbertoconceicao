@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>Redes Sociais</h1> </br>
-<a href="https://www.instagram.com/marcosalberto.c/">Instagram</a> </br>
-<a href="https://www.linkedin.com/in/marcosalbertoc/">LinkedIn</a>
+<p>Redes Sociais</p> 
+<ul>
+  <li><a href="https://www.instagram.com/marcosalberto.c/">Instagram</a></li>
+  <li><a href="https://www.linkedin.com/in/marcosalbertoc/">LinkedIn</a></li>
+</ul>
