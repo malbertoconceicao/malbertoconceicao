@@ -20,3 +20,4 @@ Trabalho como Analista de Suporte e Desenvolvedor Web, tenho experiência há ma
 </ul>
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malbertoconceicao)](https://github.com/anuraghazra/github-readme-stats)
