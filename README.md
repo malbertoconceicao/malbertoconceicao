@@ -20,4 +20,4 @@ Trabalho como Analista de Suporte e Desenvolvedor Web, tenho experiência há ma
 </ul>
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=malbertoconceicao&show_icons=true&theme=default)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=malbertoconceicao&show_icons=true&theme=onedark)
