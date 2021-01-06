@@ -1,5 +1,5 @@
 <h1>Marcos Alberto</h1>
-<p>Olá! Tenho 34 anos, sou natural de São Paulo, casado.
+<p>Olá! Sou natural de São Paulo, casado.
 Trabalho como Analista de Suporte e Desenvolvedor Web, tenho experiência há mais de 10 anos na área de TI.</p>
 
 <h2>Habilidades</h2>
