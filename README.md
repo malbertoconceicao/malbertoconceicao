@@ -1,7 +1,6 @@
 <h1>Marcos Alberto</h1>
-<p>Olá! Sou natural de São Paulo, casado.
-Trabalho como Analista de Suporte e Desenvolvedor Web, tenho experiência há mais de 10 anos na área de TI.</p>
-<p>Apaixonado por tecnologia</p>
+<p>Olá! Sou natural de São Paulo, casado.Apaixonado por tecnologia! Trabalho como Analista de Suporte e Desenvolvedor Web, tenho experiência há mais de 10 anos na área de TI.</p>
+
 
 <h2>Habilidades</h2>
 <ul>
