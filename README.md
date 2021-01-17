@@ -9,7 +9,7 @@
   <li>Bootstrap</li>
   <li>JQuery</li>
   <li>Wordpress</li>
-  <li>SQL Server 2014</li>
+  <li>SQL Server</li>
   <li>Redes de Computadores (Linux/Windows)</li>
 </ul>
 
