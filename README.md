@@ -5,7 +5,7 @@
 <h2>Habilidades</h2>
 <ul>
 
-  <li>Desenvolvimento Web(HTML, CSS, Flexbox e JavaScript)</li>
+  <li>Desenvolvimento Web(HTML, CSS e JavaScript)</li>
   <li>Bootstrap</li>
   <li>JQuery</li>
   <li>Wordpress</li>
