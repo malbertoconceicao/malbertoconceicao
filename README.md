@@ -6,6 +6,7 @@
 <ul>
 
   <li>Desenvolvimento Web(HTML, CSS e JavaScript)</li>
+   <li>C#</li>
   <li>Bootstrap</li>
   <li>JQuery</li>
   <li>Wordpress</li>
