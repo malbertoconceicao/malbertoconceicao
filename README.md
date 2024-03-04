@@ -8,7 +8,7 @@
   <li>Desenvolvimento Web(HTML, CSS e JavaScript)</li>
    <li>Python</li>
   <li>Bootstrap</li>
-  <li>Javascript (React,Next.js)</li>
+  <li>React | Next.js</li>
   <li>Wordpress</li>
   <li>SQL Server</li>
   <li>Redes de Computadores (Linux/Windows)</li>
